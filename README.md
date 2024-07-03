@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yael Monterrubio
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently studying CS at Universidad del Noreste
+- 📫 How to reach me yaelmonterrubio10@gmail.com
