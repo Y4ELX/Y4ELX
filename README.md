@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yael and I'm Software Engineer from México</p>
+<p align="left">My name is Yael and I'm a Software Engineer from México.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in Web Design<br>🌱 I’m currently studying CS at Universidad del Noreste<br>📂 Portafolio https://y4elx.github.io/Portafolio/<br>📫 How to reach me yaelmonterrubio23@gmail.com</p>
+<p align="left">👀 I’m interested in Web Design<br>🌱 I’m currently studying CS at Universidad del Noreste<br>📂 Portafolio https://y4elx.github.io/Portafolio/<br>📫 How to reach me yaelmonterrubio10@gmail.com</p>
 
 ###
 
@@ -25,7 +25,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img  onclick="window.open('https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene', '_blank');" src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Y4ELX/Y4ELX/output/snake.svg" alt="Snake animation" />
 
 ###
