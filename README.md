@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">My name is Yael and I'm a Software Engineer from México.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">👀 I’m interested in Web Design<br>🌱 I’m currently studying CS at Universidad del Noreste<br>📂 Portafolio https://y4elx.github.io/Portafolio/<br>📫 How to reach me yaelmonterrubio10@gmail.com</p>
+<p align="left">My name is Yael and I'm a Software Engineer from México.<br>👀 I’m interested in Web Design<br>🌱 I’m currently studying CS at Universidad del Noreste<br>📂 Portafolio https://y4elx.github.io/Portafolio/<br>📫 How to reach me yaelmonterrubio10@gmail.com</p>
 
 ###
 
