@@ -27,9 +27,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Y4ELX/Y4ELX/output/snake.svg" alt="Snake animation" />
-
 ###
