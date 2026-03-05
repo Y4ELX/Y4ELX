@@ -46,7 +46,7 @@ The idea is simple: explore a location and try to guess where you are on the map
 ## Tech I Use
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,angular,git,figma,unity,cs,blender,mysql,kotlin,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,python,cs,kotlin,mysql,git,figma,unity,blender,arduino" />
 </p>
 
 ## Around the web
