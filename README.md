@@ -1,42 +1,68 @@
-<h1 align="left">Hey what's up?</h1>
+# Yael Monterrubio 💻
 
-###
+<p>
+Developer building interactive things for the web.
+</p>
 
-<h2 align="left">About me</h2>
+## About
 
-###
+I'm a developer who enjoys building **interactive web experiences**, games, and creative projects.
 
-<p align="left">My name is Yael and I'm a Software Engineer from México.<br>👀 I’m interested in Web Design<br>🌱 I’m currently studying CS at Universidad del Noreste<br>📂 Portafolio https://y4elx.github.io/Portafolio/<br>📫 How to reach me yaelmonterrubio23@gmail.com</p>
+Most of what I do sits somewhere between **development, design, and experimentation**.
 
-###
+Right now I'm:
 
-<h2 align="left">I code with</h2>
+- 🎮 Building **Tampiguessr**, a web game based on locations in Tampico
+- 📱 Learning more about **React Native**
+- 🧪 Exploring new ways to make web apps
 
-###
+📫 Contact: **yaelmonterrubio23@gmail.com**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-</div>
+🌐 Portfolio: **https://y4elx.github.io/Portafolio**
 
-###
 
-<h2 align="left">Social media</h2>
 
-###
+## Featured Project
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/yael-monterrubio-7ba33829a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yaelmonterubio23@gmail.com&su=Contacto%20mediante%20GitHub&body=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### Tampiguessr
 
-###
+A small web game inspired by GeoGuessr but focused on **Tampico, Tamaulipas**.
+
+The idea is simple: explore a location and try to guess where you are on the map.
+
+<p align="center">
+
+<a align="center" href="https://tampiguessr-17a8b.web.app">
+<img width="500" height="auto" alt="tampiguessr-17a8b web app_" src="https://github.com/user-attachments/assets/bee71ed3-8172-4dbf-a5d3-53ff914ead3b" />
+</a>
+</p>
+
+<p align="center">
+<a align="center" href="https://tampiguessr-17a8b.web.app">
+<img src="https://img.shields.io/badge/Play-Tampiguessr-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
+</p>
+
+## Tech I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,angular,git,figma,unity,cs,blender,mysql,kotlin,arduino" />
+</p>
+
+## Around the web
+
+<p align="center">
+
+<a href="https://github.com/Y4ELX">
+<img src="https://skillicons.dev/icons?i=github" height="35"/>
+</a>
+
+<a href="https://mx.linkedin.com/in/yael-monterrubio-7ba33829a">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="https://www.instagram.com/yaeelrz/">
+<img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+</a>
+
+</p>
