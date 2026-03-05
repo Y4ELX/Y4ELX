@@ -26,7 +26,7 @@ Right now I'm:
 
 ### Tampiguessr
 
-A small web game inspired by GeoGuessr but focused on **Tampico, Tamaulipas**.
+A web game inspired by GeoGuessr but focused on **Tampico, Tamaulipas**.
 
 The idea is simple: explore a location and try to guess where you are on the map.
 
