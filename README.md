@@ -32,13 +32,13 @@ The idea is simple: explore a location and try to guess where you are on the map
 
 <p align="center">
 
-<a align="center" href="https://tampiguessr-17a8b.web.app">
+<a align="center" href="https://tampiguessr.com">
 <img width="500" height="auto" alt="tampiguessr-17a8b web app_" src="https://github.com/user-attachments/assets/bee71ed3-8172-4dbf-a5d3-53ff914ead3b" />
 </a>
 </p>
 
 <p align="center">
-<a align="center" href="https://tampiguessr-17a8b.web.app">
+<a align="center" href="https://tampiguessr.com">
 <img src="https://img.shields.io/badge/Play-Tampiguessr-blue?style=for-the-badge&logo=googlechrome"/>
 </a>
 </p>
