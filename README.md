@@ -33,7 +33,7 @@ The idea is simple: explore a location and try to guess where you are on the map
 <p align="center">
 
 <a align="center" href="https://tampiguessr.com">
-<img width="500" height="auto" alt="tampiguessr-17a8b web app_" src="https://github.com/user-attachments/assets/bee71ed3-8172-4dbf-a5d3-53ff914ead3b" />
+<img width="500" height="auto" alt="tampiguessr-17a8b web app_" src="https://github.com/user-attachments/assets/5a117027-013f-4140-9343-db95c062c4ce" />
 </a>
 </p>
 
