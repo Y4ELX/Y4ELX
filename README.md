@@ -12,7 +12,7 @@ Most of what I do sits somewhere between **development, design, and experimentat
 
 Right now I'm:
 
-- 🎮 Building **Tampiguessr**, a web game based on locations in Tampico
+- 🎮 Building **Tampiguessr**, a web game based on locations in Tampico Tamaulipas
 - 📱 Learning more about **React Native**
 - 🧪 Exploring new ways to make web apps
 
