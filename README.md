@@ -72,3 +72,5 @@ The idea is simple: explore a location and try to guess where you are on the map
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Y4ELX/Y4ELX/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Y4ELX/Y4ELX/output/pacman-contribution-graph.svg">
 </picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Y4ELX&theme=dark&mode=weekly)](https://git.io/streak-stats)
